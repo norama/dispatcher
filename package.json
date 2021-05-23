@@ -1,0 +1,13 @@
+{
+  "name": "dispatcher",
+  "version": "1.0.0",
+  "description": "pubsub-js based state and request dispatcher",
+  "main": "index.js",
+  "type":"module",
+  "author": "Nora Mate",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pubsub-js": "^1.9.3"
+  }
+}
